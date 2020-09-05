@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30406.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SwaggerEg", "SwaggerEg.csproj", "{377CFC73-3297-4377-9BAD-FDAEBD1A09AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwaggerEgTesting", "..\SwaggerEgTesting\SwaggerEgTesting.csproj", "{BA8DD5D1-B701-41C6-BFB5-181112DE8ADA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{377CFC73-3297-4377-9BAD-FDAEBD1A09AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{377CFC73-3297-4377-9BAD-FDAEBD1A09AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{377CFC73-3297-4377-9BAD-FDAEBD1A09AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{377CFC73-3297-4377-9BAD-FDAEBD1A09AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA8DD5D1-B701-41C6-BFB5-181112DE8ADA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA8DD5D1-B701-41C6-BFB5-181112DE8ADA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA8DD5D1-B701-41C6-BFB5-181112DE8ADA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA8DD5D1-B701-41C6-BFB5-181112DE8ADA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E647172B-9DD8-4583-86CE-0EB5AF5B9F1F}
+	EndGlobalSection
+EndGlobal
